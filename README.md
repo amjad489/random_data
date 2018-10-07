@@ -1,2 +1,2 @@
 # random_data
-Script to dump random data to MySql server
+Script to insert random data to MySql server to performance testing purpose.
