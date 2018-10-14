@@ -13,7 +13,7 @@ This value can be easily override through passing **`--rows-1000`** parameter.
 ### Install
 Clone the git repo
 ```bash
-git clone 
+git clone https://github.com/amjad489/random_data.git
 ```
 Run the following command to install the required dependencies.
 ```bash
