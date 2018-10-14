@@ -25,6 +25,7 @@ Pass the following parameters to run the script.
 $ python generate_data.py localhost root password random_data --rows=100000
 ```
 ### Output
+![](random_data.gif)
 ```bash
 connected to MySQL server..
 created database..
