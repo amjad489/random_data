@@ -1,7 +1,7 @@
 # random_data
 Python script to insert random data to MySql server to performance testing purpose.
 
-script will create a table and insert random data in to the table. By default it will insert **`100000`** rows.
+script will create a table and insert random data into the table. By default it will insert **`100000`** rows.
 
 This value can be easily override through passing **`--rows-1000`** parameter.
 
