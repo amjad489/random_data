@@ -6,7 +6,7 @@ script will create a table and insert random data in to the table. By default it
 This value can be easily override through passing **`--rows-1000`** parameter.
 
 ## Python dependencies
-   - [tqdm](https://github.com/tqdm/tqdm)
+   - [halo](https://github.com/manrajgrover/halo)
    - [mysql-connector-python](https://dev.mysql.com/downloads/connector/python/)
    
 ## Setup
