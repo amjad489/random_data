@@ -26,14 +26,7 @@ $ python generate_data.py localhost root password random_data --rows=100000
 ```
 ### Output
 ![](random_data.gif)
-```bash
-connected to MySQL server..
-created database..
-preparing sql statements..
-100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 100000/100000 [00:15<00:00, 6398.04it/s]
-100000  - rows inserted to database
-data insert completed in 00:00:15
-```
+
 ### Help
 ```bash
 $ python generate_data.py                                                 
